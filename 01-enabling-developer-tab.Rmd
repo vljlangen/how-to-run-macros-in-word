@@ -63,10 +63,21 @@ enable the Developer tab in Word.
     -   The Developer tab should now be visible in the Word toolbar at
         the top of the window.
 
+\
+
 ------------------------------------------------------------------------
 
 Once the Developer tab is enabled, you're ready to start working with
 macros! Proceed to the next chapter to learn how to create and run your
 first macro.
 
+------------------------------------------------------------------------
 
+\
+
+\
+
+How to run macros in Microsoft Word © 2024 by Ville Langén is licensed under the  
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1).
+
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)

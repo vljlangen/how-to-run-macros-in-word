@@ -38,6 +38,19 @@ Before running the macro, you’ll need a sample manuscript loaded into Word. Be
 
 ![](example_manuscript.png)
 
+\
+
 ---
 
 Once you’ve pasted this sample into Word, ensure Track Changes is turned on and visible. Now proceed with adding and running the macro as described in the next section.
+
+------------------------------------------------------------------------
+
+\
+
+\
+
+How to run macros in Microsoft Word © 2024 by Ville Langén is licensed under the  
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1).
+
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)

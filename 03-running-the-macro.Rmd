@@ -132,9 +132,22 @@ Once the macro has been run and the changes accepted, your document should now d
 
 \
 
+\
+
 ------------------------------------------------------------------------
 
 Congratulations! You’ve successfully run the MarkChanges macro. This
 approach makes revisions permanent and visually distinct, even after
 turning off Track Changes. 
+
+------------------------------------------------------------------------
+
+\
+
+\
+
+How to run macros in Microsoft Word © 2024 by Ville Langén is licensed under the  
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1).
+
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 

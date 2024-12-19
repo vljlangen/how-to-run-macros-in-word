@@ -29,3 +29,9 @@ The guide is written for macOS, but the workflow is very similar for Windows.
 
 \
 
+------------------------------------------------------------------------
+
+How to run macros in Microsoft Word © 2024 by Ville Langén is licensed under the  
+[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1).
+
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
