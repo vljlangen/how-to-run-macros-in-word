@@ -2,6 +2,8 @@
 
 A quick tutorial on running macros in Microsoft Word, with a practical example focusing on permanently highlighting tracked changes.
 
+The tutorial is available at: [https://how-to-run-macros-in-word.netlify.app/](https://how-to-run-macros-in-word.netlify.app/)
+
 ## Overview
 
 This guide demonstrates how to:
