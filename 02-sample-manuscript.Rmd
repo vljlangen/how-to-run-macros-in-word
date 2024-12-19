@@ -17,7 +17,7 @@ Before running the macro, you’ll need a sample manuscript loaded into Word. Be
 
 \
 
-![](original.png)
+![](images/original.png)
 
 \
 
@@ -25,7 +25,7 @@ Before running the macro, you’ll need a sample manuscript loaded into Word. Be
 
 \
 
-![](enable_tracking.png)
+![](images/enable_tracking.png)
 
 \
 
@@ -36,7 +36,7 @@ Before running the macro, you’ll need a sample manuscript loaded into Word. Be
 
 \
 
-![](example_manuscript.png)
+![](images/example_manuscript.png)
 
 \
 
