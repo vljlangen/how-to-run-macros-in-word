@@ -1,0 +1,11 @@
+introduction
+enabling-developer-tab
+steps-for-macos
+steps-for-windows
+sample-manuscript
+running-the-macro
+open-the-vba-editor
+add-the-macro-code
+run-the-macro
+accept-all-changes
+verify-the-results

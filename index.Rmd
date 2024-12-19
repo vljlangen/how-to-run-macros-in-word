@@ -1,0 +1,31 @@
+---
+title: "How to run macros in Microsoft Word"
+author: "Ville Langén"
+date: "`r format(Sys.time(), '%d.%m.%Y')`"
+#date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+---
+
+
+
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+This is a simple tutorial on how to run macros in Microsoft Word.
+
+As an example, the tutorial introduces a macro that permanently highlights revisions marked with the Track Changes feature in red within the document. This allows a document to be, for example, resubmitted to a journal without Track Changes enabled while keeping the revisions clearly highlighted.
+
+The guide is written for macOS, but the workflow is very similar for Windows.
+
+\
+
+\
+
